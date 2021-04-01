@@ -11,3 +11,5 @@ Disallow:
 # some line
 
 # This line has been added to demonstrate the usage of the git push command
+# Comments usually start with a HASH symbol.   
+# This commen will be pushed to github via SSH protocol
